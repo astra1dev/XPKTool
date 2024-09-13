@@ -6,8 +6,8 @@
   <a href="https://www.gnu.org/licenses/gpl-3.0.html">
     <img src="https://img.shields.io/badge/license-GPL-brightgreen.svg?style=plastic&logo=GNU&label=License">
   </a>
-  <a href="https://github.com/astra1dev/XPKTool/actions/workflows/main.yml">
-    <img src="https://github.com/astra1dev/XPKTool/actions/workflows/main.yml/badge.svg?event=push&style=plastic">
+  <a href="https://github.com/astra1dev/XPKTool/actions/workflows/dotnet.yml">
+    <img src="https://github.com/astra1dev/XPKTool/actions/workflows/dotnet.yml/badge.svg?event=push&style=plastic">
   </a>
   <a href="../../releases/latest">
     <img src="https://img.shields.io/github/release/astra1dev/XPKTool.svg?label=version&style=plastic">
@@ -44,7 +44,7 @@ The following operating systems are supported:
 1. Download and install .NET 8 from the [official site](https://dotnet.microsoft.com/download/dotnet/8.0) if you don't already have it installed.
 2. Download the file fitting your operating system from the [latest release](../releases/latest)
 
-Alternatively, you can download the `.dll` fiel from the latest release, which will work on all operating systems using the `dotnet XPKTool.dll` command (.NET 8 required).
+Alternatively, you can download the `.dll` file from the latest release, which will work on all operating systems using the `dotnet XPKTool.dll` command (.NET 8 required).
 
 <hr>
 
